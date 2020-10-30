@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 .ipynb_checkpoints
 api_keys.py
+.DS_Store
