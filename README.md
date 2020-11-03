@@ -1,5 +1,5 @@
-WeatherPy Activity
-Python APIs Homework
+## Python APIs Homework
+# WeatherPy Activity
 Lucienne Kaplan
 U of O Coding Bootcamp 2020
 
